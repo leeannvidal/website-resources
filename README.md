@@ -45,8 +45,3 @@ Use GitHub’s preview URL or a direct download:
   `https://raw.githubusercontent.com/leeannvidal/website-resources/main/materials/<PATH-TO-FILE>.pdf`
 
 Replace `<PATH-TO-FILE>` accordingly.
-
-## License
-
-Unless noted otherwise, documents here are © Lee-Ann Vidal-Covas and shared for viewing.  
-For reuse, contact: vidall@bu.edu.
