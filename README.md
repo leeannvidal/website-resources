@@ -40,11 +40,11 @@ Public files I link from my site. Two buckets:
 Use GitHub’s preview URL or a direct download:
 
 - Preview (nice page):  
-  `https://github.com/<USER>/<REPO>/blob/main/<PATH-TO-FILE>.pdf`
+  `hhttps://github.com/leeannvidal/website-resources/blob/main/materials/<PATH-TO-FILE>.pdf`
 - Direct download:  
-  `https://raw.githubusercontent.com/<USER>/<REPO>/main/<PATH-TO-FILE>.pdf`
+  `https://raw.githubusercontent.com/leeannvidal/website-resources/main/materials/<PATH-TO-FILE>.pdf`
 
-Replace `<USER>`, `<REPO>`, and `<PATH-TO-FILE>` accordingly.
+Replace `<PATH-TO-FILE>` accordingly.
 
 ## License
 
