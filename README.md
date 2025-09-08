@@ -40,7 +40,7 @@ Public files I link from my site. Two buckets:
 Use GitHub’s preview URL or a direct download:
 
 - Preview (on Github):  
-  `https://github.com/leeannvidal/website-resources/blob/main/<PATH-TO-FILE>` >*(it's just the normal link to the file)*
+  `https://github.com/leeannvidal/website-resources/blob/main/<PATH-TO-FILE>` *(it's just the normal link to the file)*
 - Direct download:  
   `https://raw.githubusercontent.com/leeannvidal/website-resources/main/<PATH-TO-FILE>`
 
