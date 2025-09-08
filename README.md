@@ -39,9 +39,9 @@ Public files I link from my site. Two buckets:
 
 Use GitHub’s preview URL or a direct download:
 
-- Preview (nice page):  
-  `hhttps://github.com/leeannvidal/website-resources/blob/main/materials/<PATH-TO-FILE>.pdf`
+- Preview (on Github):  
+  `https://github.com/leeannvidal/website-resources/blob/main/<PATH-TO-FILE>` >*(it's just the normal link to the file)*
 - Direct download:  
-  `https://raw.githubusercontent.com/leeannvidal/website-resources/main/materials/<PATH-TO-FILE>.pdf`
+  `https://raw.githubusercontent.com/leeannvidal/website-resources/main/<PATH-TO-FILE>`
 
 Replace `<PATH-TO-FILE>` accordingly.
