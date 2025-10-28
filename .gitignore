@@ -1,0 +1,18 @@
+# Ignore everything at the repo root
+/*
+
+# Keep the two folders
+!materials/
+
+
+# Keep everything inside them
+!materials/**
+
+# (optional) also keep these top-level files
+!.gitignore
+!README.md
+!LICENSE
+!LICENSE-docs.md
+
+# Nice-to-have ignores that may appear inside allowed folders
+**/.DS_Store
